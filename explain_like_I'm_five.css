@@ -1,0 +1,13 @@
+p {
+    color: lightskyblue;
+}
+
+ul li {
+    color: #3c3c3c;
+}
+
+.boxed {
+    border: 1px solid black;
+    height: 670px;
+    width: 340px;
+}
